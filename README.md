@@ -49,12 +49,12 @@ Personalized credit-building strategies and advanced data analytics help improve
 
 ## References
 
-Sally Chen & Derryl D'Silva & Frank Packer & Siddharth Tiwari, 2022. "Virtual banking and beyond," BIS Papers, Bank for International Settlements, number 120.
+1. Sally Chen & Derryl D'Silva & Frank Packer & Siddharth Tiwari, 2022. "Virtual banking and beyond," BIS Papers, Bank for International Settlements, number 120.
 
-Nadia Sha (Sultanate of Oman), Shariq Mohammed (Sultanate of Oman). 2017. "Virtual banking and online business." Banks and Bank Systems, Volume 12, Issue 1, pp. 75-81.
+2. Nadia Sha (Sultanate of Oman), Shariq Mohammed (Sultanate of Oman). 2017. "Virtual banking and online business." Banks and Bank Systems, Volume 12, Issue 1, pp. 75-81.
 
-Jal Power Corporation Limited (JPCL). (2021). Resolution of Jal Power Corporation Limited. Indian Institute of Insolvency Professionals of ICAI.
+3. Jal Power Corporation Limited (JPCL). (2021). Resolution of Jal Power Corporation Limited. Indian Institute of Insolvency Professionals of ICAI.
 
-Orchid Pharma Limited. (2021). Resolution of Orchid Pharma Limited. Indian Institute of Insolvency Professionals of ICAI.
+4. Orchid Pharma Limited. (2021). Resolution of Orchid Pharma Limited. Indian Institute of Insolvency Professionals of ICAI.
 
-Moser Baer India Limited (MBIL). (2021). Liquidation of Moser Baer India Limited. Indian Institute of Insolvency Professionals of ICAI.
+5. Moser Baer India Limited (MBIL). (2021). Liquidation of Moser Baer India Limited. Indian Institute of Insolvency Professionals of ICAI.
