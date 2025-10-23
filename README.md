@@ -2,13 +2,9 @@
 
 ## Title of the Project
 
-Implementation of Financial and Business Management System for Plant Engineering
-
-### Implementation of Credit Monitoring system for BFS using Virtual Bank
+### Implementation of Financial and Business Management System for Plant Engineering
 
 A Rise of virtual banking which are used to manage credits and monitor them to enhance risk prediction, fraud detection, and personalized credit management in Plant Engineering.
-
-
 
 ## About
 
