@@ -24,9 +24,8 @@ Effective credit management in plant engineering requires integrating multiple d
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/94deb103-f70a-4786-bea2-afd8aa9b079e)
+<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/3161e459-8a5d-4472-979c-8b0c6d5bc0fe" />
 
-![image](https://github.com/user-attachments/assets/dbb14c3c-7b6f-4045-a46e-e298c5def42c)
 
 <img width="1841" height="905" alt="image" src="https://github.com/user-attachments/assets/4570d511-3da6-44b8-99b9-40c5e3c82fbe" />
 
